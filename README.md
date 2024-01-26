@@ -1,4 +1,12 @@
-## Calendly Clone API
+# Calendly Clone App
+
+A web app that will help you to connect with a person and to let another person connect with you.
+Any user can register as an Organizer or as an Attendee.
+Organizers will connect with an individual attendee. The Organizer will share the times during which he/she will be available. These time slots will be visible to the attendees to book the time of the any organizer.
+Attendees can browse through a list of Organizers and choose to book their time based on the availability of slots.
+Whenever an Attendee books the time of an Organizer, the Attendee will receive a Google Meet invite from the Organizer.
+
+# Calendly Clone API
 •	Using Spring Boot, MySQL, Google Calendar API
 # Database schemas
  ![image](https://github.com/abhimessi16/calendly-clone-api/assets/91337858/821bafeb-0286-44a5-a968-31c89317032a)
